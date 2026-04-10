@@ -167,9 +167,3 @@ python -m streamlit run app.py
 ## ⭐ Acknowledgment
 
 This project demonstrates the application of **unsupervised learning and explainable AI** for real-world anomaly detection problems.
-
-If you want:
-✅ I can **add images section properly formatted**
-✅ or generate a **perfect GitHub repo description + tags**
-
-Just tell me 👍
